@@ -6,7 +6,7 @@ My name is Junhea Hong
 
 I'm currently interested in front-end web development
 
-If you want to know more about me, here's my [resume](https://junhea.notion.site/Resume-73a9cb859b564a049b1896a0d4a8bbee?pvs=4)
+If you want to know more about me, here's my [RESUME](https://junhea.notion.site/Resume-73a9cb859b564a049b1896a0d4a8bbee?pvs=4)
 
 ###
 
